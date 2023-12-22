@@ -14,4 +14,6 @@
 
 - Database(SQLite)
 
-- ...
+- ProgressBar
+
+- DatePickerDialog
