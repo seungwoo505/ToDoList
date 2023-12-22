@@ -2,7 +2,7 @@
 
 ## UI/UX
 
-![ToDoList](https://github.com/seungwoo505/ToDoList/동작영상.gif)
+![ToDoList](https://github.com/seungwoo505/ToDoList/blob/main/동작영상.gif)
 
 ## 사용된 개념
 
