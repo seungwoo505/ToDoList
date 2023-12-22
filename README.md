@@ -2,7 +2,7 @@
 
 ## UI/UX
 
-![ToDoList](https://github.com/Climier-code/AndroidStudio/blob/master/img/ToDoList.gif)
+![ToDoList](https://github.com/seungwoo505/ToDoList/동작영상.gif)
 
 ## 사용된 개념
 
