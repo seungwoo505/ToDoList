@@ -1,5 +1,9 @@
 # Android ToDoList App
 
+## 개요
+
+1인 개발입니다.
+
 ## UI/UX
 
 ![ToDoList](https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.gif)
