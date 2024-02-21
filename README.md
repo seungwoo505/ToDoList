@@ -1,13 +1,11 @@
 # Android ToDoList App
 
 ## 개요
-
 1인 개발입니다.
 
 제작 기간 : 2023.12 ~ 2023.12
 
 ## UI/UX
-
 ![ToDoList](https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.gif)
 
 <https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.mp4>
@@ -21,15 +19,9 @@
 할 일과 기간 그리고 진행도(시간 흐름)가 표시되고 X를 통해 삭제도 가능합니다.
 
 ## 사용된 개념
-
 - Fragment
-
 - RecyclerView
-
 - Adapter
-
 - Database(SQLite)
-
 - ProgressBar
-
 - DatePickerDialog
