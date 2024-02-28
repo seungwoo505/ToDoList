@@ -6,7 +6,7 @@
 제작 기간 : 2023.12 ~ 2023.12
 
 ## UI/UX
-![ToDoList](https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.gif)
+<img src="https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.gif" height="500"/>
 
 <https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.mp4>
 
